@@ -4,6 +4,9 @@ Une application de gestion de tâches moderne et intuitive inspirée de Jira, co
 
 ![Kanban Board Preview](https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&q=80&w=1000)
 
+![Capture d’écran du 2025-01-10 18-00-06](https://github.com/user-attachments/assets/3e7726cf-cc71-4daf-ace1-4ea9441cd391)
+
+
 ## ✨ Fonctionnalités
 
 ### 🎯 Gestion des Tâches
