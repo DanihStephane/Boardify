@@ -110,7 +110,7 @@ interface Comment {
 
 ```bash
 # Cloner le projet
-git clone [url-du-projet]
+git clone git@github.com:DanihStephane/Boardify.git
 
 # Installer les dépendances
 npm install
