@@ -210,7 +210,9 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ## 📜 Licence
 
-Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
+ `LICENSE` free: https://github.com/DanihStephane.
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) : https://www.linkedin.com/in/danihstephane/
 
 ## 🙏 Remerciements
 
